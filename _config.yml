@@ -13,7 +13,7 @@ name                     : &name "ouou"
 description              : &description "Welcome to my webpage!"
 url                      :https://github.com/EE06-7/eeouou.github.io/blob/master/images/%E3%80%82.png  # the base hostname & prohttps:tocol for your site e.g."https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "eeouou.github.io"
+repository               : "eeouou/eeouou.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &xingliu97
+  username               : ouou
   facebook:
   username               :
   app_id                 :
