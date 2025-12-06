@@ -11,9 +11,9 @@ title                    : "ouou 欧"
 title_separator          : "-"
 name                     : &name "ouou"
 description              : &description "Welcome to my webpage!"
-url                      :  # the base hostname & prohttps://github.com/EE06-7/eeouou.github.io/blob/master/images/-5f712ab39562ca1.jpgtocol for your site e.g. "https://mmistakes.github.io"
+url                      :。.png  # the base hostname & prohttps://tocol for your site e.g.
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "XingLLiu/XingLLiu.github.io"
+repository               : "eeouou.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
